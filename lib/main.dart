@@ -4,7 +4,6 @@ import 'package:gmail_clone_v2/pages/entrypage.dart';
 import 'package:gmail_clone_v2/pages/homePage.dart';
 import 'package:gmail_clone_v2/pages/login.dart';
 import 'package:gmail_clone_v2/pages/signup.dart';
-import 'package:gmail_clone_v2/pages/email_pages.dart';
 
 void main() {
   runApp( MyApp());
