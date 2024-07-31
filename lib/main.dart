@@ -1,16 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:gmail_clone_v2/pages/composePage.dart';
 import 'package:gmail_clone_v2/pages/entrypage.dart';
-import 'package:gmail_clone_v2/pages/homePage.dart';
-import 'package:gmail_clone_v2/pages/login.dart';
-import 'package:gmail_clone_v2/pages/signup.dart';
-
 void main() {
-  runApp( MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-   MyApp({super.key});
+  MyApp({super.key});
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -20,7 +15,6 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       home: entry_Page(),
-      
     );
   }
 }

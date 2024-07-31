@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:gmail_clone_v2/pages/homePage.dart';
 import 'package:gmail_clone_v2/pages/signup.dart';
 import 'package:gmail_clone_v2/pages/login.dart';
 
