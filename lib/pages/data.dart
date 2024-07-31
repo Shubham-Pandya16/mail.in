@@ -7,6 +7,7 @@ var email_ids = [
   "ana@gmail.com",
   "prachimehta001312@gmail.com",
   "gusairuby@gmail.com",
+  "kukshishah17@gmail.com",
   "user.shubham16@gmail.com",
   "thakor0917n@gmail.com",
   "darshankalburgi2006@gmail.com",
